@@ -63,6 +63,7 @@
     <h2>Choose your language</h2>
     <nav aria-label="Language selection">
         <?php foreach ($supportedLocales as $language => $languageName): ?>
+            <?php if ($language === 'en') continue; ?>
             <a data-language="<?= $language ?>" lang="<?= $language ?>" hreflang="<?= $language ?>" href="<?= $escape($localeUrl($language, $pageSlug) . '?language=' . $language) ?>" <?= $locale === $language ? 'aria-current="true"' : '' ?>><?= $languageName ?></a>
         <?php endforeach; ?>
     </nav>
