@@ -1,0 +1,59 @@
+# Local development workspace: tools, references, archives and QA output.
+/_project/
+
+# Client source documents (runtime content is maintained in /data and /locales).
+/*.xlsx
+/*.xls
+~$*.xlsx
+~$*.xls
+
+# Installed dependencies and generated test output.
+node_modules/
+vendor/
+coverage/
+playwright-report/
+test-results/
+.phpunit.cache/
+.phpunit.result.cache
+*.log
+*.pid
+
+# Local configuration and credentials. Keep example configuration trackable.
+.env
+.env.*
+!.env.example
+!.env.*.example
+.user.ini
+auth.json
+/.codex/
+/.agents/
+/.aws/
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Editor settings and temporary/backup files.
+.idea/
+.vscode/
+*.bak
+*.tmp
+*.swp
+*.swo
+*~
+
+# Local deployment archives.
+/*.zip
+/*.tar
+/*.tar.gz
+/*.tgz
+
+# OS metadata.
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Track website PHP/HTML, .htaccess, assets/, data/, locales/ and includes/.
+# Dependency manifests and lockfiles should also remain tracked.

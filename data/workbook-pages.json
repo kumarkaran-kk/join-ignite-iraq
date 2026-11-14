@@ -1,0 +1,1529 @@
+{
+  "source": "IGNITE IRAQ Website.xlsx; English fallback authorized by user",
+  "pages": {
+    "products": {
+      "en": {
+        "title": "Products",
+        "heading": "IGNITE Product Philosophy",
+        "intro": "At IGNITE Social Enterprise, we don’t just sell products; we engineer the tools for a life of purpose and empowerment. Our product philosophy is centred on a single, powerful idea: empowering our network to live an inspired and future-ready life. Each product in our ecosystem has been carefully chosen not for market appeal alone, but for its ability to deliver genuine, long-term value.\n\nWe believe in a holistic approach to success. That is why our product categories work together to create a comprehensive ecosystem for personal and professional growth:",
+        "sections": [
+          {
+            "title": "Products",
+            "type": "cards",
+            "items": [
+              {
+                "title": "brAInify",
+                "body": "brAInify is a next-generation, AI-driven online education platform, proudly introduced as part of the IGNITE Social Enterprise ecosystem.",
+                "href": "brainify.php",
+                "label": "brAInify",
+                "id": "brainify"
+              },
+              {
+                "title": "SANAREY",
+                "body": "Explore SANAREY and its product range.",
+                "href": "sanarey.php",
+                "label": "SANAREY",
+                "id": "sanarey"
+              },
+              {
+                "title": "SENA",
+                "body": "World-class timepieces blending Malaysian heritage, quality materials, and timeless everyday design.",
+                "href": "sena.php",
+                "label": "SENA",
+                "id": "sena"
+              },
+              {
+                "title": "BrushO",
+                "body": "Product details are coming soon.",
+                "href": "brusho.php",
+                "label": "BrushO",
+                "id": "brusho"
+              },
+              {
+                "title": "Bright",
+                "body": "Product details are coming soon.",
+                "href": "bright.php",
+                "label": "Bright",
+                "id": "bright"
+              },
+              {
+                "title": "drinkHRW",
+                "body": "Product details are coming soon.",
+                "href": "drinkhrw.php",
+                "label": "drinkHRW",
+                "id": "drinkhrw"
+              }
+            ]
+          }
+        ],
+        "image": "iraq/basra-shanasheel.jpg"
+      }
+    },
+    "about": {
+      "en": {
+        "title": "About IGNITE",
+        "heading": "Our Story: A Return to People",
+        "intro": "IGNITE Social Enterprise is a people-first e-commerce platform founded by industry leaders to restore the entrepreneurial spirit of the industry. We are built on trust, long-term partnership, and shared success—empowering individuals to build sustainable businesses and extraordinary lives.\n\nWe are deliberately creating a platform where:\nThe Network Comes First – Every decision is driven by partner success.\nTrue Strategic Partnership – Leaders are treated as stakeholders, not just distributors.\nRadical Transparency – Fairness, respect, and long-term trust guide everything we do.\n\nThis is our promise—to every partner, leader, and customer. A promise of a transparent, respectful culture and a global community united by a shared vision for a better future.\n\nThis journey is not about leaving something behind. It is about stepping toward the future you want to build.",
+        "sections": [
+          {
+            "title": "About IGNITE",
+            "type": "cards",
+            "items": [
+              {
+                "title": "Our Company",
+                "body": "Headquartered in Hong Kong, IGNITE Social Enterprise is a global direct selling social enterprise bridging artificial intelligence learning via the brAInify AI education platform with physical health solutions from SANAREY wellness products.",
+                "href": "our-company.php",
+                "label": "Our Company",
+                "id": "our-company"
+              },
+              {
+                "title": "Our Promise",
+                "body": "The IGNITE Social Enterprise mission is to provide individuals worldwide with accessible digital upskilling, personal wellness solutions, and sustainable entrepreneurial opportunities.",
+                "href": "our-promise.php",
+                "label": "Our Promise",
+                "id": "our-promise"
+              },
+              {
+                "title": "IGNITE Leadership",
+                "body": "At the helm of IGNITE isn’t just a group of executives—it’s a global family of servant leaders.",
+                "href": "leadership.php",
+                "label": "IGNITE Leadership",
+                "id": "leadership"
+              },
+              {
+                "title": "IGNITE Global Advisory Board",
+                "body": "IGNITE Social Enterprise is guided by a distinguished Advisory Board whose collective expertise spans corporate governance, frontier science, and global media, bringing institutional credibility, scientific rigour, and international reach to our mission.",
+                "href": "advisory-board.php",
+                "label": "IGNITE Global Advisory Board",
+                "id": "advisory-board"
+              },
+              {
+                "title": "Media",
+                "body": "Discover how media outlets around the world are covering IGNITE's mission, innovation, and people-first approach.",
+                "href": "media.php",
+                "label": "Media",
+                "id": "media"
+              },
+              {
+                "title": "FAQ",
+                "body": "Understanding IGNITE Social Enterprise begins with total transparency, regulatory compliance, and a commitment to consumer trust.",
+                "href": "faqs.php",
+                "label": "FAQ",
+                "id": "faqs"
+              },
+              {
+                "title": "Products",
+                "body": "",
+                "href": "products.php",
+                "label": "Products"
+              }
+            ]
+          }
+        ],
+        "image": "iraq/baghdad-courtyard.jpg",
+        "heroAnchor": "about-ignite"
+      }
+    },
+    "our-company": {
+      "en": {
+        "title": "Our Company",
+        "heading": "Our Company: Building a Purpose-Driven Future",
+        "intro": "Headquartered in Hong Kong, IGNITE Social Enterprise is a global direct selling social enterprise bridging artificial intelligence learning via the brAInify AI education platform with physical health solutions from SANAREY wellness products. By pairing software subscriptions with everyday wellness and health solutions, IGNITE Social Enterprise redefines modern direct sales to deliver authentic consumer value and sustainable entrepreneurial opportunities worldwide.",
+        "sections": [
+          {
+            "title": "Our Company",
+            "type": "prose",
+            "items": [
+              {
+                "title": "What You Should Know About IGNITE Social Enterprise and Our Corporate History",
+                "body": "The inception of IGNITE Social Enterprise grew out of a direct need for corporate accountability in the commercial direct sales industry. Historically, independent distributors were often constrained by heavy inventory overhead, single-category product reliance, or recruitment-first compensation structures that lacked end-consumer utility.\n\nIGNITE Social Enterprise was built on an entirely different premise: true commercial stability requires real product value. By engineering a dual-market platform where practical artificial intelligence coursework and science-backed physical supplements support one another, we give our Brand Affiliates solutions that address everyday needs. This modern framework establishes a transparent standard for compliance, distributor longevity, and ethical network marketing globally.\n\nFurthermore, our operational roadmap prioritises sustainable enterprise infrastructure over short-term trends. By providing partners with continuously updated learning modules and daily health formulas, we ensure our community remains relevant in an evolving marketplace. We measure corporate success not by distributor volume alone, but by total customer satisfaction, skill acquisition, and long-term retention."
+              },
+              {
+                "title": "Why Hong Kong Serves as Our Strategic Corporate Hub",
+                "body": "As a Hong Kong direct selling company, establishing corporate headquarters in Hong Kong provides IGNITE Social Enterprise with a resilient foundation for managing international commerce, trade compliance, and global technology distribution.\n\nOperating out of Hong Kong delivers specific strategic advantages:\n•  International Commercial Governance: Adhering to strict trade laws, corporate transparency standards, and consumer protection mandates recognized globally.\n•  Streamlined Physical Supply Chains: Capitalizing on world-class logistics infrastructure to manufacture, store, and export SANAREY wellness products across international borders.\n•  Global Cloud Infrastructure: Hosting multi-language delivery networks for the brAInify AI education platform to serve users across Asia, Africa, Europe, and emerging markets without interruption.\n\nThis international operational base allows IGNITE Social Enterprise to maintain seamless back-office management, timely product delivery, and legal compliance for all global independent partners. Our location enables swift global expansion, linking emerging markets to established commercial hubs seamlessly."
+              },
+              {
+                "title": "The Operating Philosophy Behind Our Social Enterprise Business Model",
+                "body": "At IGNITE Social Enterprise, commercial growth is tied directly to our Brand Affiliates' development and consumer satisfaction. Our daily operations are governed by three core commitments:\n\n•  Partner-First Business Infrastructure: We provide independent affiliates with digital back-office management systems, localized promotional assets, and direct executive training. Learn how our compensation structure operates on The Opportunity page.\n\n•  Practical Tech Upskilling: Rather than offering theoretical business advice, the brAInify AI education platform delivers hands-on, actionable training on artificial intelligence applications, smart automation, and online marketing. This ensures our users build relevant, high-income skills for the modern economy. Learn more on the brAInify platform page.\n\n•  Everyday Physical Well-Being: Professional success relies on daily energy, clear cognition, and physical health. The SANAREY wellness product line offers science-backed daily supplements formulated to maintain physical stamina, bodily balance, and focus. Explore our products on the SANAREY product page."
+              },
+              {
+                "title": "Corporate Leadership and Executive Governance",
+                "body": "IGNITE Social Enterprise was established by an international group of corporate executives, software architects, and wellness product developers. Uniting decades of experience in platform engineering, direct sales compliance, and global supply chain logistics, our leadership team focuses on long-term corporate governance over short-term trends.\n\nOur executive team maintains an open communication culture, hosting live digital workshops, leadership seminars, and field training programs to support our distributors worldwide. Discover our leadership team on Our Leadership page or read about our social impact initiatives on Our Mission page.\n\nBy aligning corporate governance with practical distributor resources, leadership ensures every Brand Affiliate operates with total confidence. Through continuous executive oversight and direct mentorship, IGNITE Social Enterprise remains dedicated to fostering global leadership, maintaining ethical operational standards, and pioneering modern social commerce for future generations of digital entrepreneurs."
+              }
+            ]
+          }
+        ],
+        "image": "iraq/baghdad-courtyard.jpg"
+      }
+    },
+    "our-promise": {
+      "en": {
+        "title": "Our Promise",
+        "heading": "Our Promise: Driving Impact Through Ethical Business",
+        "intro": "The IGNITE Social Enterprise mission is to provide individuals worldwide with accessible digital upskilling, personal wellness solutions, and sustainable entrepreneurial opportunities. Headquartered in Hong Kong as a direct selling social enterprise, IGNITE Social Enterprise combines cloud-based artificial intelligence training via the brAInify AI education platform with daily physical health formulas from SANAREY wellness products. By structured integration of technology, health, and ethical direct marketing, our social enterprise business model creates measurable economic mobility and personal well-being across global communities.",
+        "sections": [
+          {
+            "title": "Our Promise",
+            "type": "prose",
+            "items": [
+              {
+                "title": "What is IGNITE Social Enterprise's Mission?",
+                "body": "The IGNITE Social Enterprise mission goes beyond traditional corporate sales targets by embedding social impact directly into the core commercial architecture. Rather than treating corporate social responsibility as a secondary philanthropic afterthought, our enterprise operates on a hybrid model where every product transaction advances digital literacy, physical vitality, or independent business ownership.\n\nOur primary objective is to eliminate structural barriers to economic self-reliance. By delivering affordable, practical artificial intelligence coursework alongside science-backed health supplements, IGNITE Social Enterprise equips people from diverse socioeconomic backgrounds with the tools required to adapt, earn, and thrive in an evolving global economy."
+              },
+              {
+                "title": "How IGNITE Social Enterprise Differs from Traditional Direct Selling",
+                "body": "Many traditional network marketing companies focus primarily on volume distribution and recruitment velocity, often overlooking long-term end-consumer value. IGNITE Social Enterprise redefines this paradigm through a value-first framework:\n\n•  Utility-Driven Product Lineup: We develop products that solve immediate daily challenges—bridging the digital skills gap with software training and supporting physical stamina with daily health formulas.\n\n•  Strict Regulatory Governance: Operating out of Hong Kong, our direct selling social enterprise maintains total compliance with international commercial laws, clear earnings disclosures, and transparent distributor policies.\n\n•  Reinvestment in Partner Growth: Capital is reinvested into building cloud back-office systems, localized marketing tools, and free educational mentorship programs for independent brand partners. Learn more on the About page."
+              },
+              {
+                "title": "Our Alignment with the UN Sustainable Development Goals",
+                "body": "IGNITE Social Enterprise aligns its global commercial activities directly with the United Nations Sustainable Development Goals (UN SDGs) to drive verifiable social impact:\n\n•  SDG 3: Good Health and Well-Being: Through SANAREY wellness products, we promote physical vitality, stress resilience, and daily metabolic health using high-grade, science-backed nutritional formulations. Discover our lineup on the SANAREY product page.\n\n•  SDG 4: Quality Education: Through the brAInify AI education platform, we democratize technical knowledge by offering practical, multi-language instruction on artificial intelligence productivity, prompt engineering, and digital workflows. Explore courses on the brAInify platform page.\n\n•  SDG 8: Decent Work and Economic Growth: Through our ethical network marketing structure, we provide a low-risk, accessible pathway for individuals to launch remote, flexible businesses and achieve financial autonomy. Review partner terms on The Opportunity page."
+              },
+              {
+                "title": "The Communities IGNITE Social Enterprise Serves",
+                "body": "IGNITE Social Enterprise serves a diverse global demographic seeking skill development, better health, and financial independence. Our primary impact communities include:\n\n1. Emerging Market Entrepreneurs: Individuals in developing economies who gain access to global-standard digital skills and international earning channels without heavy capital investment.\n\n2. Career Reskillers: Professionals facing industry automation who use artificial intelligence coursework to modernize their skill set and maintain competitive workplace value.\n\n3. Home-Based Business Owners: Parents, caregivers, and remote workers seeking flexible schedules through an ethical social commerce model."
+              },
+              {
+                "title": "How Our Products Deliver on Our Mission",
+                "body": "Every product created by IGNITE Social Enterprise serves as an instrument of empowerment. The brAInify AI education platform transforms complex technical concepts into simple, actionable steps, enabling users to automate routine tasks, increase professional output, and enter high-paying digital fields.\n\nConcurrently, the SANAREY wellness product collection delivers targeted physical benefits—enhancing cognitive focus, cellular energy, and overall stamina. By addressing both mental capability and physical health, IGNITE Social Enterprise ensures that independent brand partners and consumers possess the total vitality necessary to build lasting personal success."
+              }
+            ]
+          }
+        ],
+        "image": "iraq/basra-shanasheel.jpg"
+      }
+    },
+    "leadership": {
+      "en": {
+        "title": "IGNITE Leadership",
+        "heading": "The APEX Partnership",
+        "intro": "At the helm of IGNITE isn’t just a group of executives—it’s a global family of servant leaders. They are your working Uplines, leaders who understand the grind because they’re right there in the trenches with you.\n\nWith over 100 years of combined direct selling experience, our APEX Partners aren't watching from a distance. They are committed to keeping their ears and hearts close to the ground, working hand-in-hand with every leader building a team and every team dedicated to growing their community.\n\nWe believe in leadership that listens, supports, and builds together. Whether you’re just starting your journey or leading a massive organisation, you have a powerhouse of experience and a family of mentors backing you every step of the way.\n\nWelcome to a leadership that leads with a heart.",
+        "sections": [
+          {
+            "title": "IGNITE Leadership",
+            "type": "profiles",
+            "items": [
+              {
+                "title": "WORKING UPLINE PATHMAN SENATHIRAJAH",
+                "body": "Pathman Senathirajah serves as a Working Upline at IGNITE, a senior role within the company's global Brand Affiliate network. In this role, he mentors and supports independent affiliates as they build their businesses, sharing practical experience in leadership, relationship-building and personal development.\n\nIGNITE was founded by a group of network and corporate leaders with a combined experience of more than 100 years in direct selling. Pathman works alongside IGNITE's corporate management, which is responsible for the company's governance and operations.\n\nPathman holds a law degree from the University of London and began his career as a legal officer. He has worked full-time in direct selling since the late 1990s. He has written three books on direct selling and speaks regularly to entrepreneurs around the world.\n\nHe believes that direct selling is built on creating, cultivating and nurturing relationships. At IGNITE, he focuses on helping affiliates build long-term, ethical businesses based on real product sales, continuous learning and the company's mission, \"Own Your Future.\"\n\nWithin the IGNITE community he is widely known as \"Chief.\""
+              },
+              {
+                "title": "APEX FOUNDING PARTNER ADLY HASSAN",
+                "body": "As the Managing Director of APEX, Adly Hassan serves as a testament to the transformative power of network marketing. Once a self-described introvert from Sudan, his journey from a successful civil engineer working in the Middle East to becoming a global APEX Partner provides a roadmap for every member of our global family, demonstrating that true success is a marathon built on ethics and a heart for people.\n\nToday, as AFP Adly guides our community toward a future of sustainable success, his message remains clear: you must remain the steady captain of your own destiny, guiding your ship with unwavering integrity and professional excellence."
+              },
+              {
+                "title": "APEX FOUNDING PARTNER ARUN GEORGE",
+                "body": "APEX Founding Partner Arun George is a living example of why one should never settle for \"good\" when \"great\" is within reach. A former corporate highflyer who achieved remarkable success at Unilever by age 23, he walked away from a secure career to embrace the limitless potential of network marketing.\n\nAFP Arun's ability to distil complex business strategies into actionable steps has made him one of the most sought-after mentors in the industry. He views the IGNITE platform as the ultimate equaliser—a place where an individual’s background matters far less than their hunger for growth and their willingness to pay the price of success."
+              },
+              {
+                "title": "APEX FOUNDING PARTNER DEV JOHL",
+                "body": "APEX Founding Partner Dev Johl is a master of excellence who traded the world of 5-star hospitality for the limitless potential of network marketing. Formerly a high-level Food & Beverage Director in Singapore, AFP Dev brought his disciplined approach to service and operations into the network marketing industry over two decades ago.\n\nAlso known as No.1 in the InService Brotherhood, AFP Dev remains a servant leader at his core. He is a firm believer that the only way to lead people is to care for them. He views the network not as a hierarchy but a family of diverse individuals with a heart of service."
+              },
+              {
+                "title": "APEX FOUNDING PARTNER DAVID SHARMA",
+                "body": "APEX Founding Partner David Sharma is a leader who defines excellence through experience. Bringing a sophisticated corporate pedigree and an unyielding drive for results to IGNITE, he is renowned for his ability to turn vision into reality. His journey is a masterclass in professional transition from a top executive in multinational companies in APAC to a full-time networker, proving that true success is found when one’s business acumen meets a passion for empowering others.\n\nToday, as he continues to lead and inspire, AFP David Sharma remains committed to the idea that success is not a destination, but a standard of living. Through IGNITE, he ensures that the next generation of leaders has the tools, the mindset, and the integrity to change the world."
+              },
+              {
+                "title": "APEX PARTNER ROSLI ISMAIL",
+                "body": "APEX Partner Rosli Ismail is the embodiment of discipline, loyalty, and the \"never say die\" spirit. He advocates for long-term vision over short-term \"hypes.\" He teaches his team that a house built on sand will fall, but a house built on the \"rock\" of integrity and hard work will stand for generations.\n\nAP Rosli's journey from a hotel management executive in Singapore to a seasoned networker proves that with the right mindset and a warrior’s resolve, anyone can transition from a mundane corporate life to a life of total financial and personal independence. As a working Upline, he aims to build an army of dreamers and warriors ready to reclaim their lives through IGNITE."
+              },
+              {
+                "title": "APEX PARTNER IBN ABBAS",
+                "body": "Originally from Khartoum, Sudan, APEX Partner Ibn Abbas is a pivotal leader, known for his ability to build high-performing organisations from the ground up across Africa and the Middle East. With a background in Computer Engineering, AP Ibn Abbas pivoted from a traditional career path to pursue network marketing with a mission of global positive impact, not for oneself but for the communities that surround them.\n\nThrough IGNITE, AP Ibn Abbas aims to foster a grounded, value-driven generation of entrepreneurs who prioritise people and purpose over simple transactional gains, viewing real success not as a solitary achievement, but as the collective growth and independent strength of the leaders he develops along the way."
+              },
+              {
+                "title": "APEX PARTNER SYLLA YOUSSOUF",
+                "body": "APEX Partner Sylla Youssouf is a cornerstone of professional integrity and strategic leadership. Drawing from his background as a telecommunications specialist, he has spent over two decades instilling a culture of transparency and high-level discipline across his organisation.\n\nEmpowering African entrepreneurs to build global businesses grounded in character and trust is his vision for IGNITE. His leadership style prioritises professional excellence and the development of independent leaders who operate with unwavering principles. For AP Sylla, the mission is clear: to guide a new generation toward a level of success that is defined by its integrity, ensuring that the legacy of IGNITE is built on a foundation of professional honour."
+              },
+              {
+                "title": "APEX PARTNER SYLLA ZOUMANA",
+                "body": "APEX Partner Sylla Zoumana is a champion of African networking and a prominent figure within the industry. He has spent years building a massive footprint across West Africa. His journey from a determined entrepreneur to a global mentor is fueled by a relentless \"never give up\" attitude that inspires thousands.\n\nNow at IGNITE, AP Zoumana brings his deep expertise to a new era of leadership. He focuses on guiding entrepreneurs through the challenges of the industry with grit and tenacity. For him, success is measured by the strength of the community and the lasting impact left on the next generation of global leaders."
+              },
+              {
+                "title": "APEX PARTNER N’GOLO",
+                "body": "APEX Partner N'Golo is celebrated for his infectious energy and a \"no-excuses\" work ethic that has ignited markets across West Africa. Rising from humble beginnings, he proves that true leadership is found in the trenches, championing a human-first approach that focuses on the power of the basics, dedicated to helping the common man and woman achieve an uncommon life through consistent, heartcentered action.\n\nA medical undergraduate, he leads by example, focusing on the mindset and discipline required to break limitations and discover one's true potential. For him, the mission is to develop a new generation of grounded, independent leaders, ensuring that success is a collective journey where no one is left behind."
+              },
+              {
+                "title": "APEX PARTNER MANOJ NARAYANAN",
+                "body": "APEX Partner Manoj Narayanan is a powerhouse of discipline who transitioned from a career in Hotel Management to become a toptier global network leader. His journey in the network marketing industry is a testament to a relentless work ethic and the steadfast belief that true achievement is earned through consistency, courage, and an unwavering commitment to the grind.\n\nKnown for building genuine, heart-centered relationships, AP Manoj focuses on empowering his global network through honest mentorship. For him, the ultimate reward is the glow in the eyes of those who discover their own potential and the lasting legacy of success he builds for the global community."
+              },
+              {
+                "title": "APEX PARTNER MARWAN TALODI",
+                "body": "APEX Partner Marwan Talodi is a globally recognised powerhouse in the network marketing industry, celebrated for his relentless commitment to leadership development and personal growth. His journey—transitioning from a career in the police force and various professional roles to becoming a global mentor and a full-time networker—is a testament to his belief in disciplined strategy and the power of a \"master plan.\"\n\nNow at IGNITE, AP Marwan is dedicated to driving a new era of global entrepreneurship through heart-led leadership and sustained momentum. He views leadership as a collaborative mission to build a lasting legacy, empowering individuals to overcome the fear of judgment and embrace digital innovation."
+              },
+              {
+                "title": "APEX PARTNER SHIPRA",
+                "body": "APEX Partner Shipra is a cornerstone of quiet excellence and servant leadership. Drawing from her core belief in empowering millions to break through their limitations and fighting for their dreams, she has dedicated her journey to instilling a culture of continuous learning and self-improvement across her massive global organisations.\n\nRecognised globally to be empowering individuals to achieve their dreams, grounded in trust and personal connection is her vision. Her leadership style prioritises the development of leaders who operate with perseverance and unwavering dedication. For Shipra, the mission is clear: to remind people that every step forward is a step closer to your dreams, ensuring that her legacy is built on a foundation of inspiring and uplifting those around her."
+              }
+            ]
+          }
+        ],
+        "image": "iraq/baghdad-courtyard.jpg"
+      }
+    },
+    "advisory-board": {
+      "en": {
+        "title": "IGNITE Global Advisory Board",
+        "heading": "The IGNITE Global Advisory Board",
+        "intro": "IGNITE Social Enterprise is guided by a distinguished Advisory Board whose collective expertise spans corporate governance, frontier science, and global media, bringing institutional credibility, scientific rigour, and international reach to our mission.\n\nEach advisor was selected not only for a proven track record, but for a clear alignment with IGNITE’s core values of integrity, innovation, and people-first leadership. \n\nTogether, they serve as both a guide and a catalyst, helping ensure that IGNITE scales responsibly, stays grounded in evidence, and delivers sustainable impact on the world stage.\n\nThe Advisory Board’s combined expertise mirrors IGNITE’s business model and growth priorities, particularly in governance, science-backed wellness, media visibility, and international expansion. \n\nWhile advisors do not manage day-to-day operations or serve as company directors, they act as experienced thought partners, strategic sounding boards, and trusted ambassadors who sharpen strategy, strengthen credibility, and open doors to new opportunities.",
+        "sections": [
+          {
+            "title": "IGNITE Global Advisory Board",
+            "type": "profiles",
+            "items": [
+              {
+                "title": "Dato’ Sri Subahan Kamal",
+                "body": "MALAYSIA\n\nDato' Sri Subahan Kamal brings over three decades of expertise in finance, corporate governance, and institutional leadership, with a career spanning the Malaysian Ministry of Finance, Bank Rakyat, and senior roles across major Bursa Malaysia entities. As Chairman of SOCSO, Malaysia's premier social security institution, he oversees the welfare of millions — a testament to his reputation for integrity and his commitment to national development. His influence extends across infrastructure, franchising, and sports governance, making him one of Malaysia's most versatile and respected public figures. At IGNITE, he serves as a cornerstone for ethical governance and regulatory excellence, ensuring the organisation scales with institutional-grade precision."
+              },
+              {
+                "title": "Nathan ‘Bola Ray’ Adisi",
+                "body": "GHANA\n\nNathan 'Bola Ray' Adisi is a titan of African media and entertainment, serving as CEO of the EIB Network Group and Empire Entertainment, where he has shaped the broadcasting landscape across Ghana and the continent for over two decades. A trailblazer in his field, he was the first African to host Top of the Pops on BBC Radio and led Joy FM's Drive Time Show to become the most influential programme of its kind for over a decade. Beyond media, he serves as 1st Vice-Chair of the India-Africa Trade Council and holds an MBA in Global Business and Sustainability from the Catholic University of the Sacred Heart in Milan. At IGNITE, his continental reach, entrepreneurial network, and diplomatic relationships are invaluable assets for our African expansion strategy."
+              },
+              {
+                "title": "Dr. Konstantin Korotkov",
+                "body": "RUSSIA\n\nDr. Konstantin Korotkov is a world-renowned physicist and pioneer in quantum medicine and biophysics, with over 30 years of research into the human energy-light system at Saint Petersburg University. He is best known for developing the Gas Discharge Visualization (GDV) technique, a breakthrough electro-photonic imaging method validated by over 400 scientific articles and 15 patents. As creator of the Bio-Well camera — used in over 70 countries by health practitioners and elite athletes — he is a globally recognised authority on the science of well-being. At IGNITE, his expertise ensures our wellness mission remains grounded in cutting-edge, data-driven science."
+              },
+              {
+                "title": "Dr. Beverly Rubik",
+                "body": "UNITED STATES OF AMERICA\n\nDr. Beverly Rubik, Ph.D., is a world-renowned biophysicist from UC Berkeley, celebrated for her groundbreaking research on the biofield — the complex field of energy and information that regulates living systems. She is the founder of the Institute for Frontier Science and has served on the Program Advisory Board for the Office of Alternative Medicine at the U.S. National Institutes of Health, where she chaired panels on bioelectromagnetic medicine. With over 90 published scientific papers and faculty positions at leading integrative medicine institutions, she is one of the most credentialled voices in frontier health science. At IGNITE, her expertise provides the scientific foundation for evaluating and validating our wellness technologies."
+              }
+            ]
+          }
+        ],
+        "image": "iraq/baghdad-courtyard.jpg"
+      }
+    },
+    "media": {
+      "en": {
+        "title": "Media",
+        "heading": "Trusted Voices Covering IGNITE",
+        "intro": "Discover how media outlets around the world are covering IGNITE's mission, innovation, and people-first approach.",
+        "sections": [
+          {
+            "title": "",
+            "type": "media",
+            "items": [
+              {
+                "title": "The World Agenda",
+                "image": "world.png",
+                "href": "https://theworldagenda.com/news/brainify-launches-as-a-next-generation-ai-powered-e-learning-ecosystem-where-learning-turns-into-real-world-building/546265"
+              },
+              {
+                "title": "Voyage Times",
+                "image": "voyage.png",
+                "href": "https://voyagetimes.com/news/brainify-launches-as-a-next-generation-ai-powered-e-learning-ecosystem-where-learning-turns-into-real-world-building/546265"
+              },
+              {
+                "title": "Tech Asialogue",
+                "image": "tech-asialogue.png",
+                "href": "https://tech.asialogue.com/news/brainify-launches-as-a-next-generation-ai-powered-e-learning-ecosystem-where-learning-turns-into-real-world-building/546265"
+              },
+              {
+                "title": "Africa Trade Monitor",
+                "image": "africa.png",
+                "href": "https://africatrademonitor.com/why-chief-pathman-left-qnet/"
+              },
+              {
+                "title": "Financial Capital",
+                "image": "financial.png",
+                "href": "https://thefinancialcapital.com/news/brainify-launches-as-a-next-generation-ai-powered-e-learning-ecosystem-where-learning-turns-into-real-world-building/546265"
+              }
+            ]
+          }
+        ],
+        "image": "iraq/baghdad-courtyard.jpg"
+      }
+    },
+    "faqs": {
+      "en": {
+        "title": "FAQ",
+        "heading": "IGNITE Social Enterprise Frequently Asked Questions",
+        "intro": "Understanding IGNITE Social Enterprise begins with total transparency, regulatory compliance, and a commitment to consumer trust. As an ethical direct selling social enterprise anchored in Hong Kong, IGNITE Social Enterprise delivers genuine consumer value by uniting software-based artificial intelligence upskilling on the brAInify AI education platform with daily physical health formulations from SANAREY wellness products. Grounded in transparent distributor policies and retail-driven rewards, this portal clarifies our legal standing, operational safeguards, and corporate standards.",
+        "sections": [
+          {
+            "title": "",
+            "type": "prose",
+            "items": [
+              {
+                "title": "Our Commitment to Ethical Direct Selling and Corporate Transparency",
+                "body": "Building long-term trust requires establishing clear operational boundaries, adhering to strict consumer protection laws, and maintaining total operational clarity. IGNITE Social Enterprise was built to provide an alternative to hype-driven network marketing by prioritizing real product utility over recruitment momentum."
+              },
+              {
+                "title": "Our trust framework is grounded in four fundamental corporate principles:",
+                "body": "•  Real Product Utility: Revenue within IGNITE Social Enterprise is generated exclusively through the sale of genuine products—practical artificial intelligence software courses and science-backed wellness formulas.\n•  Global Regulatory Compliance: Incorporated in Hong Kong, we operate in full alignment with international commercial regulations, anti-pyramid legislation, and fair-trading mandates across all active markets.\n•  No Capital Risk or Mandatory Inventory: Independent Brand Affiliates are never required to purchase excess inventory, make financial investments, or pay non-functional sign-up fees.\n•  Clear Refund and Cancellation Policies: We protect consumers and affiliates alike with straightforward cancellation terms, product return guarantees, and transparent income disclosures."
+              },
+              {
+                "title": "Key Operational Standards: Protecting Consumers and Brand Affiliates",
+                "body": "To maintain the highest standards of corporate governance, IGNITE Social Enterprise enforces strict policies designed to safeguard our global community:"
+              },
+              {
+                "title": "Product-Centric Compensation Structure",
+                "body": "Brand Affiliates earn commissions solely when genuine retail sales occur. Our compensation plan rewards retail distribution to end-use consumers, ensuring that financial growth stems from real market demand rather than recruitment activity. Learn how our compensation model works on The Opportunity page."
+              },
+              {
+                "title": "Comprehensive Compliance Monitoring",
+                "body": "We actively monitor digital marketing activities and field promotions across global networks. Brand Affiliates receive detailed compliance guidelines prohibiting unauthorized product claims, false income guarantees, or misleading advertising. Explore our field guidelines on the Training page."
+              },
+              {
+                "title": "Direct Corporate Governance",
+                "body": "Our administrative team in Hong Kong handles global supply chain fulfillment, cloud delivery systems, and customer support channels directly, ensuring consistent quality and prompt resolution of distributor inquiries."
+              }
+            ]
+          },
+          {
+            "title": "",
+            "type": "prose",
+            "items": [
+              {
+                "title": "Frequently Asked Questions",
+                "body": "Get clear, official answers about IGNITE Social Enterprise, its business model, products, Brand Affiliates, corporate structure, and commitment to compliance. Explore frequently asked questions about IGNITE’s direct-selling and social e-commerce model, consumer protection, income structure, regional operations, and the company’s legal independence from other direct-selling organisations."
+              }
+            ]
+          },
+          {
+            "title": "FAQ",
+            "type": "accordion",
+            "items": [
+              {
+                "title": "1. What is IGNITE Social Enterprise?",
+                "body": "IGNITE Social Enterprise (“IGNITE”) is an international direct-selling company incorporated and headquartered in Hong Kong. IGNITE offers a portfolio of proprietary consumer brands—such as SANAREY (energy and wellness), ELARA, SENA (lifestyle) and brAInify (digital education)—marketed and distributed globally through an e-commerce platform and an international network of independent Brand Affiliates."
+              },
+              {
+                "title": "2. What is IGNITE’s legal relationship to QNET?",
+                "body": "IGNITE and QNET are separate legal entities. IGNITE is an independently owned corporate enterprise. There is no parent-subsidiary relationship, franchise arrangement, joint venture, or shared corporate ownership between IGNITE and QNET. Neither company owns shares in the other, nor does either company exercise operational control or legal authority over the other."
+              },
+              {
+                "title": "3. Why do some observers or media outlets associate IGNITE with QNET?",
+                "body": "Direct selling is a specialized global industry with a mobile workforce of experienced professionals, executives, and independent distributors. Certain individuals currently associated with IGNITE—including corporate personnel, advisors, and independent Brand Affiliates—have previously worked with or represented other direct-selling organizations during their careers, including QNET.\n\nUnder basic principles of corporate law, an individual’s prior employment or independent commercial affiliations do not create a corporate, legal, or financial link between the separate companies with which they have been associated."
+              },
+              {
+                "title": "4. Does IGNITE operate as a financial, deposit-taking, or investment scheme?",
+                "body": "No. IGNITE is strictly a commercial product-distribution company operating under standard direct-selling principles. IGNITE does not offer financial investment products, securities, guaranteed returns, fixed dividends, or deposit schemes. IGNITE does not solicit capital investments from the public. Any individual or third party claiming to offer “investment packages” or guaranteed returns using IGNITE’s name is doing so without authorization and in violation of company policy and applicable law."
+              },
+              {
+                "title": "5. What is IGNITE’s business model and how do Brand Affiliates earn income?",
+                "body": "IGNITE utilizes a direct-selling and social e-commerce model. Customers may purchase products directly for personal consumption. Individuals who choose to register as independent Brand Affiliates earn compensation exclusively based on the successful sale and delivery of tangible products and services. Affiliates do not earn compensation merely for recruiting or introducing new participants; all commission structures are tied to verifiable product sales volume."
+              },
+              {
+                "title": "6. Who represents IGNITE in regional markets such as Sub-Saharan Africa?",
+                "body": "IGNITE engages regional advisors and strategic partners to assist with stakeholder engagement, regulatory orientation, and ethical market entry. In Sub-Saharan Africa, Nathan Kwabena Adisi (“Bola Ray”) serves as a member of the Global Advisory Board and Strategic Partner for the region. His mandate is advisory and strategic in nature. Neither Mr. Adisi nor any regional partner is authorized to solicit investments, collect cash deposits, or operate financial pools on behalf of IGNITE."
+              },
+              {
+                "title": "7. How does IGNITE ensure regulatory compliance and consumer protection?",
+                "body": "IGNITE requires all corporate personnel and registered Brand Affiliates to adhere to strict Codes of Conduct and local commercial laws in each operating jurisdiction. The company maintains zero tolerance for unauthorized representations regarding product efficacy, income guarantees, or false partnerships. Inquiries, verification requests, or reports of unauthorized representations may be directed through IGNITE’s verified corporate channels."
+              }
+            ]
+          }
+        ],
+        "image": "iraq/baghdad-courtyard.jpg"
+      }
+    },
+    "business-opportunity": {
+      "en": {
+        "title": "Business Opportunity",
+        "heading": "Own Your Future. Your Way.",
+        "intro": "Your ambition. Your choices. Your opportunity.\n\nEvery great journey begins with a decision to take the first step.\n\nAt IGNITE Social Enterprise, we believe entrepreneurship should be accessible to people from all walks of life. Whether you're looking to earn additional income, explore new possibilities, or build something of your own, IGNITE gives you the opportunity to pursue your goals on your terms.\n\nThrough our people-first social commerce model, diverse product ecosystem, and global entrepreneurial community, we bring together opportunities, resources, and support to help you take charge of your journey.\n\nBecause your future should be yours to shape.",
+        "sections": [
+          {
+            "title": "DISCOVER WHAT'S POSSIBLE WITH IGNITE",
+            "type": "cards",
+            "items": [
+              {
+                "title": "01. THE IGNITE OPPORTUNITY",
+                "body": "More than a business. A world of possibilities.\n\nDiscover a modern approach to entrepreneurship built around freedom of choice, meaningful connections, and opportunities for growth.\n\nExplore what makes IGNITE different, discover the ways you can earn, and get inspired by the journeys of people who are building their own futures.",
+                "href": "business.php",
+                "label": "EXPLORE THE OPPORTUNITY",
+                "id": "opportunity"
+              },
+              {
+                "title": "02. BECOME A BRAND AFFILIATE",
+                "body": "Your journey starts here.\n\nYou don't need to have all the answers to begin. You just need the ambition to take the first step.\n\nDiscover how to become an IGNITE Brand Affiliate, understand the registration process, and learn how to get started on your entrepreneurial journey.",
+                "href": "become-a-brand-affiliate.php",
+                "label": "GET STARTED WITH IGNITE",
+                "id": "become-a-brand-affiliate"
+              },
+              {
+                "title": "03. BUILD YOUR BUSINESS",
+                "body": "Your ambition drives you. Our ecosystem supports you.\n\nBuilding a business is a journey of continuous learning, growth, and action.\n\nAccess the tools, training, and resources designed to help you develop your skills, grow your confidence, and navigate your entrepreneurial journey with IGNITE.",
+                "href": "build-your-business.php",
+                "label": "BUILD YOUR BUSINESS",
+                "id": "build-your-business"
+              }
+            ]
+          },
+          {
+            "title": "",
+            "type": "prose",
+            "items": [
+              {
+                "title": "YOUR FUTURE STARTS WITH YOU.",
+                "body": "Every opportunity begins with a choice. Every achievement begins with action.\n\nWherever you are in your entrepreneurial journey, IGNITE offers a place to explore new possibilities, connect with a community, and work toward the future you envision.\n\nYOUR JOURNEY. YOUR AMBITION. YOUR FUTURE.\nOWN YOUR FUTURE.",
+                "href": "contact.php",
+                "label": "JOIN IGNITE TODAY"
+              }
+            ]
+          }
+        ],
+        "image": "iraq/erbil-everyday.jpg"
+      }
+    },
+    "business": {
+      "en": {
+        "title": "The IGNITE Opportunity",
+        "heading": "A Business Opportunity Built For You and With You.",
+        "intro": "If you're ready to break free from traditional work constraints and launch a business on your own terms, the IGNITE Social Enterprise opportunity gives you the modern engine to make it happen. \n\nNo two entrepreneurial journeys are the same. At IGNITE, we believe your business should reflect your ambitions, your priorities, and your vision for the future.\n\nAs an independent IGNITE Brand Affiliate, you can explore opportunities to share products, connect with customers, build meaningful relationships, and grow your business at your own pace.\nBacked by a growing ecosystem of lifestyle, wellness, and digital education brands, IGNITE offers a modern approach to entrepreneurship that puts people, products, and possibilities at the centre.",
+        "sections": [
+          {
+            "title": "The IGNITE Opportunity",
+            "type": "cards",
+            "items": [
+              {
+                "title": "Why Choose IGNITE?",
+                "body": "",
+                "href": "why-choose-ignite.php",
+                "label": "Why Choose IGNITE?"
+              },
+              {
+                "title": "5 Ways to Earn",
+                "body": "",
+                "href": "five-ways-to-earn.php",
+                "label": "5 Ways to Earn"
+              },
+              {
+                "title": "The IGNITE Advantage",
+                "body": "",
+                "href": "ignite-advantage.php",
+                "label": "The IGNITE Advantage"
+              },
+              {
+                "title": "Success Stories",
+                "body": "",
+                "href": "success-stories.php",
+                "label": "Success Stories"
+              }
+            ]
+          },
+          {
+            "title": "",
+            "type": "cards",
+            "items": [
+              {
+                "title": "Business Opportunity",
+                "body": "",
+                "href": "business-opportunity.php",
+                "label": "Business Opportunity"
+              }
+            ]
+          }
+        ],
+        "image": "iraq/erbil-everyday.jpg"
+      }
+    },
+    "why-choose-ignite": {
+      "en": {
+        "title": "Why Choose IGNITE",
+        "heading": "A Social E-Commerce with a Heart",
+        "intro": "This is not a label; it is the very essence of our identity. It means our purpose extends beyond profit. We are structured to create a positive and measurable impact on society and the environment. \nWe live this commitment through our products that aim to democratise access to science-backed wellness, future-ready skills, a dream lifestyle, and by fostering an entrepreneurial community built on ethical, sustainable practices.\n\nAt IGNITE, the network's success is the company's success, and our structure is designed to ensure that value flows to those who create it.",
+        "sections": [
+          {
+            "title": "",
+            "type": "prose",
+            "items": [
+              {
+                "title": "What Makes the IGNITE Social Enterprise Opportunity Different?",
+                "body": "The IGNITE Social Enterprise opportunity was designed from the ground up for modern entrepreneurs who value flexibility, personal development, and commercial integrity.\n\nTraditional direct sales models often force distributors to buy bulk inventory, manage warehouse space, or focus on recruitment-heavy schemes that lack end-consumer demand. IGNITE Social Enterprise takes a fundamentally different approach. As an independent Brand Affiliate, you represent digital and physical solutions that people actively need and use every day. Whether you are looking to build a flexible home-based business or scale an international remote enterprise, IGNITE Social Enterprise provides the back-office tools, compliance oversight, and global logistics needed to operate smoothly across international markets."
+              },
+              {
+                "title": "How Our Social Commerce Business Model Empowers You",
+                "body": "At IGNITE Social Enterprise, our social commerce business model bridges the gap between modern e-commerce technology and community-based sharing. Instead of spending millions on third-party marketing, IGNITE Social Enterprise compensates independent brand partners directly for sharing products within their personal and digital networks."
+              },
+              {
+                "title": "Key operational advantages include:",
+                "body": "• Global Digital Infrastructure: Receive a personalised online referral portal to market brAInify course subscriptions and SANAREY health formulas anywhere in the world.\n• Automated Back-Office Systems: Track retail orders, customer reorders, team progress, and commission payouts seamlessly in real time.\n• True Workplace Flexibility: Manage your enterprise entirely online—part-time or full-time—from your laptop or smartphone, creating a sustainable work from home lifestyle.\n• Structured Leadership Growth: Access comprehensive onboarding materials, step-by-step video modules, and direct mentorship from experienced field leaders."
+              }
+            ]
+          },
+          {
+            "title": "",
+            "type": "cards",
+            "items": [
+              {
+                "title": "Explore the IGNITE Advantage",
+                "body": "",
+                "href": "ignite-advantage.php",
+                "label": "Explore the IGNITE Advantage"
+              }
+            ]
+          }
+        ],
+        "image": "iraq/erbil-everyday.jpg"
+      }
+    },
+    "five-ways-to-earn": {
+      "en": {
+        "title": "5 Ways to Earn",
+        "heading": "DIFFERENT WAYS TO GROW. ONE OPPORTUNITY TO BEGIN.",
+        "intro": "Everyone starts with a different goal.\n\nFor some, it's the opportunity to earn additional income by sharing products they believe in. For others, it's about building customer relationships, developing a team, and pursuing longer-term entrepreneurial ambitions.\n\nIGNITE Social Enterprise offers 5 Ways to Earn, providing eligible Brand Affiliates with different avenues to earn through the IGNITE business model.\n\nYour results depend on your effort, skills, customer demand, and business performance. There are no guaranteed earnings, but there are opportunities to learn, take action, and build.",
+        "sections": [
+          {
+            "title": "",
+            "type": "prose",
+            "items": [
+              {
+                "title": "THE IGNITE PLATFORM",
+                "body": "IGNITE is designed for a new breed of entrepreneur. We welcome partners and affiliates who are not just looking for an opportunity, but a purpose. Our platform is built for:\n\n•  Aspiring Entrepreneurs seeking a flexible, ethical, and supportive path to financial independence.\n•  Wellness Advocates & Lifestyle Enthusiasts who are passionate about sharing products that genuinely enhance lives.\n•  Digital Natives & Tech-Savvy Connectors who are comfortable with technology and see the power of AI and online platforms to build communities.\n•  Community Builders & Mentors who thrive on helping others succeed and want to be part of a culture of shared success.\n•  Discerning Leaders from the direct selling industry who are seeking a professional, transparent, and respectful home for their networks."
+              },
+              {
+                "title": "The IGNITE Compensation Plan",
+                "body": "IGNITE's compensation plan is designed to be fair, transparent, and rewarding. It is built to incentivise long-term growth and reward our distributors' efforts. We believe in shared success, and our compensation plan reflects that commitment. \n\nAs a Brand Affiliate, you can promote and sell IGNITE products of your choice and earn retail profit from the sales. This can be achieved through retail customers who purchase the products for personal use or by building a team of Brand Affiliates who also promote and sell the products."
+              }
+            ]
+          },
+          {
+            "title": "FIVE INCOME STREAMS. ONE POWERFUL FUTURE.\nWays to earn sustainable income with IGNITE:",
+            "type": "cards",
+            "items": [
+              {
+                "title": "01 Retail Profit",
+                "body": "Turn product recommendations into earning opportunities. Earn retail profit by sharing IGNITE's diverse range of products with customers and building meaningful relationships through every sale."
+              },
+              {
+                "title": "02 Step Commission",
+                "body": "Grow your business and unlock earning opportunities along the way. Step Commission rewards eligible business activity as you build your network and achieve qualifying sales milestones."
+              },
+              {
+                "title": "03 IGNITE Coins",
+                "body": "Get rewarded as you progress with IGNITE Coins. This incentive offers additional value through qualifying activities and achievements within the IGNITE business ecosystem."
+              },
+              {
+                "title": "04 Matching Bonus",
+                "body": "Grow together and succeed together. Matching Bonus provides an opportunity to earn additional rewards based on eligible commissions generated within your network, encouraging teamwork and shared growth."
+              },
+              {
+                "title": "05 Rank Advancement Bonus",
+                "body": "Every milestone deserves recognition. Rank Advancement Bonus rewards eligible Brand Affiliates who achieve new ranks, celebrating their commitment, progress, and leadership development."
+              }
+            ]
+          },
+          {
+            "title": "",
+            "type": "note",
+            "items": [
+              {
+                "title": "",
+                "body": "Note: Earnings and rewards are subject to the official IGNITE Compensation Plan, eligibility requirements, and applicable terms and conditions. Income is not guaranteed."
+              }
+            ]
+          },
+          {
+            "title": "",
+            "type": "prose",
+            "items": [
+              {
+                "title": "IGNITE STAR RANKS",
+                "body": "This recognition platform rewards IGNITE Brand Affilates who have crossed business milestones and consistently maintain targets throughout their career. Making it to the Star Club means becoming part of a community defined by excellence and endless possibilities."
+              },
+              {
+                "title": "",
+                "body": "•  Silver Star\n•  Titanium Star\n•  Gold Star\n•  Platinum Star\n•  Sapphire Star\n•  Ruby Star\n•  Emerald Star\n•  Diamond Star"
+              }
+            ]
+          },
+          {
+            "title": "",
+            "type": "cards",
+            "items": [
+              {
+                "title": "Ready to become a Brand Affiliate?",
+                "body": "",
+                "href": "become-a-brand-affiliate.php",
+                "label": "Become a Brand Affiliate"
+              }
+            ]
+          }
+        ],
+        "image": "iraq/erbil-everyday.jpg"
+      }
+    },
+    "ignite-advantage": {
+      "en": {
+        "title": "The IGNITE Advantage",
+        "heading": "MORE THAN A BUSINESS. A WORLD OF POSSIBILITIES.",
+        "intro": "At IGNITE Social Enterprise, we believe entrepreneurship is about more than earning. It's about learning, growing, connecting, and creating opportunities that matter.\n\nOur approach brings together the essential elements of a modern entrepreneurial journey, combining freedom, innovation, business opportunities, and a supportive global community.\n\nWhether you're just starting out or looking to take your entrepreneurial journey further, discover the advantages of building your business with IGNITE.",
+        "sections": [
+          {
+            "title": "The IGNITE Advantage",
+            "type": "cards",
+            "items": [
+              {
+                "title": "FREEDOM OF CHOICE",
+                "body": "Your goals are yours to define. Choose how you participate, set your own priorities, and build at a pace that works for you.",
+                "href": "#advantage-0",
+                "label": "LEARN MORE"
+              },
+              {
+                "title": "PRODUCTS WITH PURPOSE",
+                "body": "Discover a diverse ecosystem of products and solutions across wellness, lifestyle, skincare, and digital education, designed to meet evolving consumer interests.",
+                "href": "#advantage-1",
+                "label": "LEARN MORE"
+              },
+              {
+                "title": "OPPORTUNITIES TO EARN",
+                "body": "Explore a business model that rewards eligible product sales and business-building activities, with different ways to participate based on your goals and efforts.",
+                "href": "#advantage-2",
+                "label": "LEARN MORE"
+              },
+              {
+                "title": "TOOLS TO HELP YOU GROW",
+                "body": "Access business resources, digital tools, product knowledge, and learning opportunities designed to support your entrepreneurial development.",
+                "href": "#advantage-3",
+                "label": "LEARN MORE"
+              },
+              {
+                "title": "LEARNING THAT MOVES YOU FORWARD",
+                "body": "Great entrepreneurs never stop learning. Discover how IGNITE empowers you with the knowledge, skills, and training opportunities to grow with confidence.",
+                "href": "#advantage-4",
+                "label": "LEARN MORE"
+              },
+              {
+                "title": "A COMMUNITY THAT MOVES TOGETHER",
+                "body": "Connect with a global network of entrepreneurs who believe in collaboration, shared learning, and growing together.",
+                "href": "#advantage-5",
+                "label": "LEARN MORE"
+              }
+            ]
+          },
+          {
+            "title": "",
+            "type": "accordion",
+            "items": [
+              {
+                "title": "YOUR BUSINESS. YOUR GOALS. YOUR WAY.",
+                "body": "Your goals are yours to define. Choose how you participate, set your own priorities, and build at a pace that works for you.\n\nWhether you want to earn additional income alongside your existing commitments or dedicate more time to developing your business, IGNITE gives you the flexibility to pursue opportunities that align with your lifestyle and ambitions.\n\nYou decide where to focus your efforts, how to connect with customers, and what you want to achieve.\n\nBecause entrepreneurship should give you more choices, not fewer.",
+                "id": "advantage-0"
+              },
+              {
+                "title": "DIVERSE PRODUCTS. MORE WAYS TO CONNECT.",
+                "body": "Discover a diverse ecosystem of products and solutions across wellness, lifestyle, skincare, and digital education, designed to meet evolving consumer interests.\n\nFrom the wellness innovations of SANAREY and the digital learning opportunities of brAInify to the heritage-inspired craftsmanship of SENA Watches and the skincare solutions of Bright, IGNITE brings together brands that serve different interests and lifestyles.\n\nThis diversity gives Brand Affiliates the opportunity to connect with different customers, explore new markets, and build their businesses around products and solutions they are passionate about.\n\nReal People. Real Products. Real Possibilities.",
+                "id": "advantage-1"
+              },
+              {
+                "title": "YOUR EFFORTS. YOUR OPPORTUNITIES.",
+                "body": "Explore a business model that rewards eligible product sales and business-building activities, with different ways to participate based on your goals and efforts.\n\nThrough IGNITE's five income streams, Brand Affiliates can explore earning opportunities through retail sales, commissions, incentives, and qualifying business achievements.\n\nWhether you're focused on developing a customer base or growing a network, the IGNITE business model offers different pathways to pursue your entrepreneurial ambitions.\n\nYour earnings depend on your business activity, performance, and other factors, but the opportunity to learn, grow, and work toward your goals is yours to explore.\n\nFive Income Streams. One Powerful Future.",
+                "href": "five-ways-to-earn.php",
+                "label": "DISCOVER 5 WAYS TO EARN",
+                "id": "advantage-2"
+              },
+              {
+                "title": "THE RIGHT TOOLS FOR YOUR ENTREPRENEURIAL JOURNEY.",
+                "body": "Access business resources, digital tools, product knowledge, and learning opportunities designed to support your entrepreneurial development.\n\nIGNITE brings together resources to help Brand Affiliates understand the products, connect with customers, manage business activities, and strengthen their entrepreneurial skills.\n\nFrom digital platforms and marketing materials to practical business resources, our ecosystem is designed to help you work smarter and stay connected.\n\nWhether you're taking your first steps or expanding your business activities, having the right resources can make all the difference.\n\nWork Smarter. Connect Better. Build with Confidence.",
+                "id": "advantage-3"
+              },
+              {
+                "title": "GROW YOUR KNOWLEDGE. STRENGTHEN YOUR SKILLS.",
+                "body": "Great entrepreneurs never stop learning.\n\nAt IGNITE, we believe continuous learning is essential to building confidence, developing leadership, and adapting to a changing business landscape.\n\nThrough product education, business presentations, skills training, and leadership development opportunities, Brand Affiliates can gain valuable knowledge to support their personal and professional growth.\n\nLearn from experienced leaders, discover practical business strategies, and develop skills that can help you navigate your entrepreneurial journey.\n\nBecause when you invest in your growth, you invest in your future.",
+                "href": "events.php",
+                "label": "EXPLORE IGNITE TRAINING",
+                "id": "advantage-4"
+              },
+              {
+                "title": "INDEPENDENT ENTREPRENEURS. SHARED POSSIBILITIES.",
+                "body": "Connect with a global network of entrepreneurs who believe in collaboration, shared learning, and growing together.\n\nAt IGNITE, you're part of a community that brings together people from different backgrounds, cultures, and experiences, united by the ambition to build something meaningful.\n\nThrough business events, training sessions, community activities, and opportunities to connect with fellow Brand Affiliates, you can exchange ideas, learn from others, and build relationships that extend beyond business.\n\nBecause while every entrepreneurial journey is personal, meaningful connections can make the experience even more rewarding.\n\nDifferent Journeys. Shared Ambitions. One IGNITE Community.",
+                "id": "advantage-5"
+              }
+            ]
+          },
+          {
+            "title": "",
+            "type": "prose",
+            "items": [
+              {
+                "title": "THE ADVANTAGE IS YOURS TO EXPLORE.",
+                "body": "YOUR AMBITION. OUR ECOSYSTEM. YOUR FUTURE.\n\nEvery entrepreneurial journey begins somewhere.\n\nWith diverse products, multiple earning opportunities, business resources, continuous learning, and a global community, IGNITE brings together the elements to support you as you pursue your goals.\n\nWhether you're taking your first step or exploring your next opportunity, the choice to begin is yours.\n\nMAKE YOUR MOVE. OWN YOUR FUTURE."
+              }
+            ]
+          },
+          {
+            "title": "",
+            "type": "cards",
+            "items": [
+              {
+                "title": "Ready to become a Brand Affiliate?",
+                "body": "",
+                "href": "become-a-brand-affiliate.php",
+                "label": "Become a Brand Affiliate"
+              }
+            ]
+          },
+          {
+            "title": "",
+            "type": "note",
+            "items": [
+              {
+                "title": "",
+                "body": "Disclaimer: Earnings are not guaranteed. Actual results vary based on individual effort, skills, sales performance, customer demand, and other factors. All earnings and incentives are subject to the official IGNITE Compensation Plan and applicable terms and conditions."
+              }
+            ]
+          }
+        ],
+        "image": "iraq/erbil-everyday.jpg"
+      }
+    },
+    "success-stories": {
+      "en": {
+        "title": "Success Stories",
+        "heading": "REAL PEOPLE. REAL JOURNEYS. REAL POSSIBILITIES.",
+        "intro": "EVERY JOURNEY HAS A STORY. WHAT WILL YOURS BE?\n\nBehind every business is a person who decided to take a chance on something new.\n\nAcross the IGNITE Social Enterprise community, individuals from different backgrounds, experiences, and walks of life are exploring entrepreneurship, developing new skills, building connections, and working toward their personal goals.\n\nTheir journeys remind us that there is no single path to success. Every experience is different, and every step forward begins with the willingness to try.\n\nGet inspired by the people and stories behind IGNITE.",
+        "sections": [],
+        "image": "iraq/erbil-everyday.jpg"
+      }
+    },
+    "become-a-brand-affiliate": {
+      "en": {
+        "title": "Become a Brand Affiliate",
+        "heading": "YOUR JOURNEY STARTS HERE.",
+        "intro": "Ready to take the next step towards owning your future?\n\nBecoming an IGNITE Brand Affiliate opens the door to a world of products, learning, connections, and entrepreneurial opportunities. Whether you're exploring something new or looking to grow, we're here to help you get started.\n\nYOUR FUTURE. YOUR CHOICE. YOUR MOVE.",
+        "sections": [
+          {
+            "title": "",
+            "type": "prose",
+            "items": [
+              {
+                "title": "GETTING STARTED",
+                "body": "EXPLORE THE POSSIBILITIES. FIND YOUR WHY.\n\nBefore you begin, take the time to discover what IGNITE is all about. Get to know our products, understand our business model, and explore the opportunities available to you as an independent Brand Affiliate.\n\nThere's no single path to success. What matters is finding the one that aligns with your goals, ambitions, and vision for the future.",
+                "id": "getting-started"
+              },
+              {
+                "title": "REGISTRATION",
+                "body": "YOUR NEXT CHAPTER BEGINS WITH A CONNECTION.\n\nReady to become an IGNITE Brand Affiliate? Getting started is simple.\n\nIf someone introduced you to IGNITE, reach out to them to learn more about the registration process. Your referring Brand Affiliate can guide you through the necessary steps and help you begin your journey.\n\nNEW TO IGNITE? WE'LL HELP YOU CONNECT.\n\nIf you haven't been introduced by an existing Brand Affiliate, simply email us at spark@joinignite.com and our team will guide you on how to proceed.",
+                "href": "contact.php",
+                "label": "CONTACT US",
+                "id": "registration"
+              },
+              {
+                "title": "YOUR NEXT STEPS",
+                "body": "YOU'RE IN. NOW MAKE IT COUNT.\n\nOnce your registration is complete, it's time to turn possibilities into action.\n\nExplore the IGNITE ecosystem, deepen your product knowledge, participate in training opportunities, and connect with a community of entrepreneurs who are building their futures with purpose.\n\nRemember, your journey doesn't have to look like anyone else's. Set your own goals, keep learning, and take each step with intention.\n\nTHE OPPORTUNITY IS HERE. WHAT YOU MAKE OF IT IS UP TO YOU.",
+                "id": "next-steps"
+              }
+            ]
+          },
+          {
+            "title": "",
+            "type": "cards",
+            "items": [
+              {
+                "title": "Explore the IGNITE Advantage",
+                "body": "",
+                "href": "ignite-advantage.php",
+                "label": "Explore the IGNITE Advantage"
+              }
+            ]
+          }
+        ],
+        "image": "iraq/erbil-everyday.jpg"
+      }
+    },
+    "build-your-business": {
+      "en": {
+        "title": "Build Your Business",
+        "heading": "YOUR AMBITION. YOUR JOURNEY. YOUR NEXT MOVE.",
+        "intro": "Building your business starts with having the right support. Explore practical resources, essential tools, learning opportunities, and helpful information designed to support your entrepreneurial journey with IGNITE.",
+        "sections": [
+          {
+            "title": "Build Your Business",
+            "type": "cards",
+            "items": [
+              {
+                "title": "BA RESOURCES",
+                "body": "Access downloadable guides, materials, and resources to support your business journey.",
+                "href": "https://distributor.joinignite.com/",
+                "label": "EXPLORE RESOURCES",
+                "id": "ba-resources"
+              },
+              {
+                "title": "BA TOOLS",
+                "body": "Find essential downloadable tools and materials to help you organise, manage, and grow your business.",
+                "href": "https://distributor.joinignite.com/",
+                "label": "ACCESS BA TOOLS",
+                "id": "ba-tools"
+              },
+              {
+                "title": "TRAINING",
+                "body": "Build your knowledge, sharpen your skills, and stay connected through IGNITE training programmes and events.",
+                "href": "events.php",
+                "label": "EXPLORE TRAINING",
+                "id": "training"
+              },
+              {
+                "title": "FAQs",
+                "body": "Have questions? Find helpful answers about IGNITE, our products, and the business opportunity.",
+                "href": "faqs.php",
+                "label": "FIND ANSWERS",
+                "id": "faqs"
+              }
+            ]
+          }
+        ],
+        "image": "iraq/erbil-everyday.jpg"
+      }
+    },
+    "resources": {
+      "en": {
+        "title": "Resources",
+        "heading": "THE RIGHT RESOURCES. THE TOOLS TO MOVE FORWARD.",
+        "intro": "Stay informed, inspired, and connected with everything happening at IGNITE. From fresh perspectives and industry insights to training opportunities, upcoming events, and essential policies, discover the information and knowledge to help you navigate your IGNITE journey with confidence.",
+        "sections": [
+          {
+            "title": "Resources",
+            "type": "cards",
+            "items": [
+              {
+                "title": "IGNITE BLOG",
+                "body": "Explore fresh perspectives, inspiring stories, and insights on entrepreneurship, innovation, and the evolving world of social commerce.",
+                "href": "blog.php",
+                "label": "EXPLORE THE BLOG",
+                "id": "blog"
+              },
+              {
+                "title": "TRAINING & EVENTS",
+                "body": "Discover opportunities to learn, connect, and grow. Explore upcoming training programmes, events, and our training calendar to stay engaged with the IGNITE community.",
+                "href": "events.php",
+                "label": "VIEW TRAINING & EVENTS",
+                "id": "events"
+              },
+              {
+                "title": "POLICIES",
+                "body": "Access important policies and guidelines designed to promote transparency, accountability, and responsible business practices across IGNITE.",
+                "href": "policies.php",
+                "label": "VIEW POLICIES",
+                "id": "policies"
+              }
+            ]
+          }
+        ],
+        "image": "iraq/baghdad-courtyard.jpg"
+      }
+    },
+    "support": {
+      "en": {
+        "title": "Support",
+        "heading": "HERE TO HELP. EVERY STEP OF THE WAY.",
+        "intro": "Have a question or need assistance? We're here to help you find the answers and support you need.\n\nWhether you're looking for guidance, exploring helpful information, or reaching out to our team, discover the right support to make your IGNITE experience easier and more seamless.",
+        "sections": [
+          {
+            "title": "Support",
+            "type": "cards",
+            "items": [
+              {
+                "title": "CONTACT US",
+                "body": "LET'S START A CONVERSATION.\n\nHave a question, concern, or feedback to share? Get in touch with the IGNITE team for assistance with your enquiries.",
+                "href": "contact.php",
+                "label": "GET IN TOUCH",
+                "id": "contact"
+              },
+              {
+                "title": "HELP CENTRE",
+                "body": "FIND ANSWERS. MOVE FORWARD.\n\nLooking for information or guidance? Explore our Help Centre for answers to common questions, helpful resources, and support on navigating your IGNITE experience.",
+                "href": "help.php",
+                "label": "VISIT HELP CENTRE",
+                "id": "help"
+              }
+            ]
+          }
+        ],
+        "image": "iraq/baghdad-courtyard.jpg"
+      }
+    },
+    "policies": {
+      "en": {
+        "title": "Policies",
+        "heading": "BUILT ON TRUST. GUIDED BY TRANSPARENCY.",
+        "intro": "Here at IGNITE Social Enterprise, transparency, accountability, and responsible business practices are fundamental to how we operate.\n\nOur policies are designed to provide clear information about your rights, responsibilities, and the standards that guide our business, products, services, and community.\n\nExplore the policies below to stay informed and engage with IGNITE with confidence.",
+        "sections": [
+          {
+            "title": "Policies",
+            "type": "cards",
+            "items": [
+              {
+                "title": "AI CONTENT DISCLAIMER",
+                "body": "Understand how artificial intelligence may be used in creating and presenting content across IGNITE's digital platforms.",
+                "href": "ai-content-disclaimer.php",
+                "label": "READ MORE"
+              },
+              {
+                "title": "SHIPPING POLICY",
+                "body": "Find important information about order processing, shipping arrangements, delivery, and related procedures.",
+                "href": "shipping-policy.php",
+                "label": "READ MORE"
+              },
+              {
+                "title": "RETURN, REFUND & EXCHANGE POLICY",
+                "body": "Learn about the applicable guidelines, eligibility requirements, and procedures for product returns, refunds, and exchanges.",
+                "href": "return-refund-and-exchange-policy.php",
+                "label": "READ MORE"
+              },
+              {
+                "title": "TERMS & CONDITIONS",
+                "body": "Review the terms, conditions, and responsibilities governing your use of IGNITE's platforms, products, and services.",
+                "href": "terms-and-conditions.php",
+                "label": "READ MORE"
+              },
+              {
+                "title": "PRIVACY POLICY",
+                "body": "Discover how IGNITE collects, uses, protects, and manages personal information in accordance with applicable privacy requirements.",
+                "href": "privacy-policy.php",
+                "label": "READ MORE"
+              },
+              {
+                "title": "SOCIAL MEDIA POLICY",
+                "body": "Explore the guidelines for responsible communication, content sharing, and engagement across social media platforms in connection with IGNITE.",
+                "href": "social-media-policy.php",
+                "label": "READ MORE"
+              }
+            ]
+          }
+        ],
+        "image": "iraq/baghdad-courtyard.jpg"
+      }
+    },
+    "sanarey": {
+      "en": {
+        "title": "SANAREY",
+        "heading": "The science of energetic wellness is entering a new era with SANAREY.",
+        "intro": "For decades, subtle energy science has explored how natural frequencies influence matter, biology, and the environment. Inspired by this understanding, SANAREY was created to usher in a new generation of resonance-based wellness technologies.\n\nSANAREY represents the evolution of energy harmonisation solutions, bringing together advanced materials science, crystal resonance, sacred geometry, and proprietary fusion technology to support balance, vitality, and natural harmony in everyday life.\n\nBy integrating natural crystal science with modern energetic engineering, SANAREY develops wellness tools designed to harmonise the body’s bio-energetic field and restore balance in an increasingly complex energetic environment.\n\nAt the heart of every SANAREY product lies a proprietary innovation known as SANAREY Fusion Technology (SFT), a specialised energetic conditioning process that fuses carefully selected crystals and minerals into engineered matrices capable of interacting with subtle energy frequencies.\n\nRooted in the principles of quantum resonance and zero-point energy, SANAREY technology is designed to support the body’s natural energetic balance and vitality.\n\nThe result is a new class of products that support the body and environment by restoring natural vibrational balance.\n\nSANAREY’s mission is simple yet profound: To restore harmony between nature, water, and life.",
+        "image": "iraq/basra-shanasheel.jpg",
+        "sections": [
+          {
+            "title": "SANAREY",
+            "type": "cards",
+            "items": [
+              {
+                "title": "Simetra",
+                "body": "Explore SANAREY Simetra.",
+                "id": "simetra",
+                "href": "sanarey-simetra.php",
+                "label": "Explore Simetra"
+              },
+              {
+                "title": "Activa",
+                "body": "Product details are coming soon.",
+                "id": "activa",
+                "href": "sanarey-activa.php",
+                "label": "Explore Activa"
+              },
+              {
+                "title": "BR-9",
+                "body": "Product details are coming soon.",
+                "id": "br-9",
+                "href": "sanarey-br-9.php",
+                "label": "Explore BR-9"
+              },
+              {
+                "title": "Aria",
+                "body": "Product details are coming soon.",
+                "id": "aria",
+                "href": "sanarey-aria.php",
+                "label": "Explore Aria"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "sena": {
+      "en": {
+        "title": "SENA",
+        "heading": "SENA",
+        "intro": "World-class timepieces blending Malaysian heritage, quality materials, and timeless everyday design.",
+        "image": "iraq/basra-shanasheel.jpg",
+        "sections": [
+          {
+            "title": "SENA",
+            "type": "cards",
+            "items": [
+              {
+                "title": "Warisan",
+                "body": "Product details are coming soon.",
+                "id": "warisan"
+              },
+              {
+                "title": "Coming Soon",
+                "body": "",
+                "status": "Coming Soon",
+                "id": "coming-soon"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "brusho": {
+      "en": {
+        "title": "BrushO",
+        "heading": "BrushO",
+        "intro": "Product details are coming soon.",
+        "image": "iraq/basra-shanasheel.jpg",
+        "sections": [
+          {
+            "title": "BrushO",
+            "type": "cards",
+            "items": []
+          }
+        ]
+      }
+    },
+    "bright": {
+      "en": {
+        "title": "Bright",
+        "heading": "Bright",
+        "intro": "Product details are coming soon.",
+        "image": "iraq/basra-shanasheel.jpg",
+        "sections": [
+          {
+            "title": "Bright",
+            "type": "cards",
+            "items": []
+          }
+        ]
+      }
+    },
+    "drinkhrw": {
+      "en": {
+        "title": "drinkHRW",
+        "heading": "drinkHRW",
+        "intro": "Product details are coming soon.",
+        "image": "iraq/basra-shanasheel.jpg",
+        "sections": [
+          {
+            "title": "drinkHRW",
+            "type": "cards",
+            "items": []
+          }
+        ]
+      }
+    },
+    "sanarey-simetra": {
+      "en": {
+        "title": "SANAREY Simetra",
+        "heading": "SANAREY Simetra\nThe Next Generation Evolution of Water Resonance Technology",
+        "intro": "Water is the foundation of life.\n\nFrom the cells within our bodies to the plants we cultivate and the food we consume, water carries the energetic blueprint of life itself. However, modern environmental stressors and industrial processing can disrupt water’s natural structural harmony.\n\nSANAREY Simetra is designed to restore that harmony.\n\nSimetra represents the next generation evolution of water resonance technology, building upon decades of research into the energetic properties of water and crystal-based materials.\n\nEngineered with a special matrix blend of crystals and minerals, Simetra incorporates:\n\n• Copper – Known for its natural conductive and antimicrobial properties\n• Clear Quartz – Revered for its ability to amplify and stabilise energy patterns\n• Diamond – Prized for its exceptional structural integrity and energetic clarity\n\nThese materials are fused using SANAREY Fusion Technology™️ (SFT), creating a powerful resonance matrix that interacts with water’s molecular structure.\n\nThrough this interaction, Simetra helps restore water to a more natural, life-supporting state, enabling it to support biological vitality and environmental balance better.\n\nElegant, simple to use, and designed for everyday living, Sanarey Simetra stands as the newly evolved successor to previous generations of water resonance discs.",
+        "image": "iraq/basra-shanasheel.jpg",
+        "sections": [
+          {
+            "title": "Product Information",
+            "type": "prose",
+            "items": [
+              {
+                "title": "SANAREY Fusion Technology (SFT)™️",
+                "body": "A Proprietary Resonance Activation Process\n\nAt the core of every SANAREY product lies SFT™️ (Sanarey Fusion Technology), a proprietary process that creates powerful resonance matrices using carefully selected crystals and minerals.\n\nSFT integrates advanced material engineering with principles derived from quantum resonance, natural geometry, and vibrational science.\n\nDuring the SFT process:\nPrecision-selected minerals and crystals are prepared into a specialized matrix.\nThe materials undergo a proprietary fusion and activation process.\nThe resulting structure becomes capable of interacting with surrounding water and energy fields.\nThis unique fusion process creates a stable resonance platform that works continuously without electricity, chemicals, or mechanical intervention. The result is a passive yet powerful technology that helps restore natural energetic balance to water and the environment."
+              },
+              {
+                "title": "THE POWER OF SIMETRA",
+                "body": "Restructuring Water for Life\n\nWater is more than just a liquid; it is a dynamic carrier of energy and information.\n\nSANAREY Simetra helps restructure and energize water, encouraging it to return to a more natural and life-supporting state.\n\nThrough its resonance matrix, Simetra supports:\n• Restoration of water’s natural vibrational patterns\n• Improved interaction between water and living systems\n• Enhanced energetic harmony in everyday environments\n\nThis process helps bring water closer to its life-giving state, supporting vitality for humans, plants, animals, and ecosystems."
+              },
+              {
+                "title": "BENEFITS",
+                "body": "SANAREY Simetra delivers a wide range of wellness and environmental benefits:\n\nWater & Energy Benefits\n• Energises and restructures water back to a life-giving state\n• Helps restore water’s natural vibrational harmony\n• Enhances the energetic quality of drinking water\n\nHealth & Vitality Support\n• Helps maintain optimum cell function\n• Supports cell detoxification processes\n• Promotes energy and overall vitality\n\nNutrient Absorption\n• Increases bioavailability of essential nutrients to humans, plants, and animals\n\nFood Freshness\n• Prolongs the freshness in fruits and vegetables\n\nEnvironmental Harmony\n• Transmutes harmful radiation into beneficial energy\n\nEveryday Convenience\n• Easy to use in everyday home and office settings"
+              },
+              {
+                "title": "HOW TO USE SIMETRA",
+                "body": "SANAREY Simetra is designed for versatile daily use. Simply place Simetra near or under water containers, food items, or environments where energetic harmonisation is desired.\n\nWater Energising\nPlace Simetra under or near:\n• Drinking water containers\n• Water jugs\n• Water dispensers\n• Bottled water\n\nAllow the water to rest for 10 minutes to experience enhanced energetic quality. The longer it stays, the more profound the water’s energetic state becomes.\n\nFood Preservation\nPlace Simetra:\n• In fruit baskets\n• Under vegetable trays\n• In refrigerators\n\nThis helps maintain the freshness and vitality of produce.\n\nPlant Growth\nPlace Simetra near:\n• Plant pots\n• Garden irrigation water\n• Hydroponic systems\n\nThis supports nutrient absorption and plant vitality.\n\nAnimal Care\nPlace Simetra near:\n• Pet water bowls\n• Aquariums\n• Livestock water containers\n\nAnimals may benefit from improved water quality and vitality.\n\nEnvironmental Harmonisation\nPlace Simetra:\n• On office desks\n• Near electronic devices\n• In living spaces\n\nThis helps promote a balanced, energetic environment."
+              },
+              {
+                "title": "WHY SANAREY SIMETRA",
+                "body": "SANAREY Simetra is not simply another energy disc. It represents the next evolutionary step in resonance technology.\n\nKey Innovations\n• Advanced crystal-mineral matrix\n• Infused with copper, clear quartz, and diamond\n• Activated through Sanarey Fusion Technology (SFT)\n• Designed for powerful water restructuring\n• Elegant and durable design"
+              },
+              {
+                "title": "EXCLUSIVELY AVAILABLE ON THE IGNITE ESTORE",
+                "body": "Available directly via the IGNITE Virtual Office."
+              }
+            ]
+          },
+          {
+            "title": "SANAREY",
+            "type": "cards",
+            "items": [
+              {
+                "title": "Explore SANAREY",
+                "body": "",
+                "href": "sanarey.php",
+                "label": "SANAREY"
+              }
+            ]
+          },
+          {
+            "title": "Product Brochure",
+            "type": "cards",
+            "items": [
+              {
+                "title": "SANAREY Simetra Product Brochure",
+                "body": "",
+                "status": "Coming Soon"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "sanarey-activa": {
+      "en": {
+        "title": "SANAREY Activa",
+        "heading": "SANAREY Activa",
+        "intro": "Product details are coming soon.",
+        "image": "iraq/basra-shanasheel.jpg",
+        "sections": [
+          {
+            "title": "SANAREY",
+            "type": "cards",
+            "items": [
+              {
+                "title": "Explore SANAREY",
+                "body": "",
+                "href": "sanarey.php",
+                "label": "SANAREY"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "sanarey-br-9": {
+      "en": {
+        "title": "SANAREY BR-9",
+        "heading": "SANAREY BR-9",
+        "intro": "Product details are coming soon.",
+        "image": "iraq/basra-shanasheel.jpg",
+        "sections": [
+          {
+            "title": "SANAREY",
+            "type": "cards",
+            "items": [
+              {
+                "title": "Explore SANAREY",
+                "body": "",
+                "href": "sanarey.php",
+                "label": "SANAREY"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "sanarey-aria": {
+      "en": {
+        "title": "SANAREY Aria",
+        "heading": "SANAREY Aria",
+        "intro": "Product details are coming soon.",
+        "image": "iraq/basra-shanasheel.jpg",
+        "sections": [
+          {
+            "title": "SANAREY",
+            "type": "cards",
+            "items": [
+              {
+                "title": "Explore SANAREY",
+                "body": "",
+                "href": "sanarey.php",
+                "label": "SANAREY"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "contact": {
+      "en": {
+        "title": "Contact Us",
+        "heading": "REACH OUR GLOBAL HEADQUARTERS",
+        "intro": "Contact IGNITE Social Enterprise to get in touch with our corporate support team, inquire about our product ecosystem, or learn more about independent business opportunities. Whether you need customer assistance, compliance guidance, or brand partner onboarding support, our administrative office is ready to assist you.",
+        "image": "iraq/baghdad-courtyard.jpg",
+        "sections": [
+          {
+            "title": "",
+            "type": "prose",
+            "items": [
+              {
+                "title": "How to Contact IGNITE Social Enterprise",
+                "body": "We provide direct, transparent communication channels for independent Brand Affiliates, retail customers, and business partners worldwide. You can connect with our team through phone, email, or direct postal mail at our Hong Kong headquarters."
+              },
+              {
+                "title": "Corporate Contact Information",
+                "body": "Email: spark@joinignite.com \nPhone: +852 3678 6503\nOffice Address: Unit C, 17/F, United Centre, Admiralty, Hong Kong"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "help": {
+      "en": {
+        "title": "Help Centre",
+        "heading": "THE SUPPORT YOU NEED. THE ANSWERS THAT MATTER.",
+        "intro": "Whether you're new to IGNITE, exploring our products, building your business, or looking for assistance, our Help Centre is here to guide you.\n\nFind useful information, explore helpful resources, and get the support you need to move forward with confidence.",
+        "image": "iraq/baghdad-courtyard.jpg",
+        "sections": [
+          {
+            "title": "",
+            "type": "cards",
+            "items": [
+              {
+                "title": "EXPLORE OUR HELP TOPICS",
+                "body": "From getting started to managing your IGNITE journey, explore our help topics to find the information and guidance you're looking for."
+              },
+              {
+                "title": "ABOUT IGNITE",
+                "body": "Discover who we are, what we stand for, and how our people-first approach is creating new possibilities.",
+                "href": "about.php",
+                "label": "Explore"
+              },
+              {
+                "title": "THE IGNITE BUSINESS",
+                "body": "Learn how the IGNITE business model works, what direct selling means, and how independent entrepreneurship fits into our ecosystem.",
+                "href": "business.php",
+                "label": "Explore"
+              },
+              {
+                "title": "BECOMING A BRAND AFFILIATE",
+                "body": "Find guidance on getting started, understanding the registration process, and taking your next steps with IGNITE.",
+                "href": "become-a-brand-affiliate.php",
+                "label": "Explore"
+              },
+              {
+                "title": "EARNINGS & COMPENSATION",
+                "body": "Understand how the IGNITE compensation plan works, the requirements for eligible earnings, and the importance of realistic business expectations.",
+                "href": "five-ways-to-earn.php",
+                "label": "Explore"
+              },
+              {
+                "title": "PRODUCTS & BRANDS",
+                "body": "Get to know our products and brands, explore their features, and find helpful product information.",
+                "href": "products.php",
+                "label": "Explore"
+              },
+              {
+                "title": "ORDERS, SHIPPING & RETURNS",
+                "body": "Find information about purchasing products, delivery, refunds, exchanges, and other order-related concerns.",
+                "href": "shipping-policy.php",
+                "label": "Explore"
+              },
+              {
+                "title": "ACCOUNT & TECHNICAL SUPPORT",
+                "body": "Find assistance with account access, personal information, platform navigation, and technical issues.",
+                "href": "https://distributor.joinignite.com/",
+                "label": "Explore"
+              },
+              {
+                "title": "TRUST & TRANSPARENCY",
+                "body": "Understand our commitment to responsible business practices, ethical conduct, consumer protection, and accurate information.",
+                "href": "policies.php",
+                "label": "Explore"
+              },
+              {
+                "title": "POPULAR HELP ARTICLES",
+                "body": "QUICK ANSWERS TO COMMON CONCERNS."
+              },
+              {
+                "title": "Looking for a place to start? Explore some of the topics our community may find most helpful.",
+                "body": "•  What is IGNITE Social Enterprise?\n•  How does the IGNITE business work?\n•  How do I become an IGNITE Brand Affiliate?\n•  How can Brand Affiliates earn with IGNITE?\n•  What products and brands does IGNITE offer?\n•  Is IGNITE affiliated with QNET?\n•  How do I request a refund or exchange?\n•  How can I contact IGNITE for assistance?"
+              },
+              {
+                "title": "MORE WAYS TO GET INFORMED",
+                "body": "EXPLORE. LEARN. STAY INFORMED.\n\nFind additional information and resources to help you make informed decisions and get more from your IGNITE experience."
+              },
+              {
+                "title": "TRAINING & EVENTS",
+                "body": "Discover upcoming learning opportunities, business training sessions, and events.\n\nEXPLORE TRAINING & EVENTS",
+                "href": "events.php",
+                "label": "Explore"
+              },
+              {
+                "title": "IGNITE BLOG",
+                "body": "Explore insights, industry perspectives, and stories from across the IGNITE ecosystem.\n\nREAD THE BLOG",
+                "href": "blog.php",
+                "label": "Explore"
+              },
+              {
+                "title": "POLICIES & GUIDELINES",
+                "body": "Access important company policies, terms, and guidelines.\n\nVIEW POLICIES",
+                "href": "policies.php",
+                "label": "Explore"
+              },
+              {
+                "title": "NEED MORE HELP?",
+                "body": "WE'RE HERE WHEN YOU NEED US.\n\nDidn't find what you were looking for? Our support team is ready to help you with your enquiries and guide you to the right information.\n\nCONTACT US \nOr email us at spark@joinignite.com.",
+                "href": "contact.php",
+                "label": "Explore"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "blog": {
+      "en": {
+        "title": "IGNITE Blog",
+        "heading": "FRESH PERSPECTIVES. REAL INSIGHTS. BIGGER POSSIBILITIES.",
+        "intro": "Ideas spark conversations. Knowledge inspires action.\n\nExplore the latest stories, insights, and perspectives from IGNITE Social Enterprise on entrepreneurship, innovation, social commerce, and the trends shaping the way we live, learn, and do business.\n\nStay curious, discover new ideas, and find inspiration to think differently, grow continuously, and own your future.\n\nEXPLORE OUR LATEST ARTICLES",
+        "image": "iraq/baghdad-courtyard.jpg",
+        "sections": [
+          {
+            "title": "",
+            "type": "prose",
+            "items": []
+          },
+          {
+            "title": "Latest Articles",
+            "type": "cards",
+            "items": [
+              {
+                "title": "IGNITE Blog",
+                "body": "New articles and videos will be published here.",
+                "status": "Coming Soon"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "events": {
+      "en": {
+        "title": "Training and Events",
+        "heading": "LEARN MORE. CONNECT MORE. ACHIEVE MORE.",
+        "intro": "Every opportunity to learn is an opportunity to grow.\n\nAt IGNITE Social Enterprise, we bring people together through engaging training programmes, inspiring events, and meaningful learning experiences designed to build knowledge, strengthen skills, and create connections.\n\nWhether you're just getting started or looking to take your entrepreneurial journey further, discover opportunities to learn, connect, and move forward with confidence.",
+        "image": "iraq/erbil-everyday.jpg",
+        "sections": [
+          {
+            "title": "",
+            "type": "prose",
+            "items": [
+              {
+                "title": "UPCOMING TRAINING & EVENTS",
+                "body": "YOUR NEXT OPPORTUNITY STARTS HERE.\n\nStay connected with what's happening across the IGNITE community. Explore upcoming training sessions, business presentations, and events designed to keep you informed, inspired, and engaged.\n\nEXPLORE UPCOMING EVENTS→"
+              },
+              {
+                "title": "TRAINING CALENDAR",
+                "body": "STAY INFORMED. PLAN AHEAD. KEEP GROWING.\n\nNever miss an opportunity to learn and connect. Browse our training calendar to discover upcoming sessions, important dates, and learning opportunities across the IGNITE network.\n\nVIEW TRAINING CALENDAR→"
+              }
+            ]
+          },
+          {
+            "title": "Upcoming Sessions",
+            "type": "cards",
+            "items": [
+              {
+                "title": "Training and Events",
+                "body": "The training calendar will be published when dates are confirmed.",
+                "status": "Coming Soon"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "brainify": {
+    "en": {
+      "title": "brAInify",
+      "heading": "Introducing brAInify: \nInnovating Learning with AI",
+      "intro": "brAInify is a next-generation, AI-driven online education platform, proudly introduced as part of the IGNITE Social Enterprise ecosystem. It is built on a single, powerful idea: that learning a complex new skill — whether it is building an AI workflow, launching a viral content strategy, or navigating the financial markets — should be as simple and natural as having a conversation with a patient, expert mentor.\n\nThe platform was born from a question that refused to go away: What if everyone had a personal genius in their pocket? The answer was brAInify. By harnessing artificial intelligence not merely as a subject to be taught, but as the teacher itself, brAInify creates an ecosystem where anyone, regardless of their background or starting point, can be guided step-by-step from foundational understanding to absolute mastery. It is a place where the fear of the unknown is replaced by the confidence of doing.",
+      "promise": {
+        "title": "Our Promise: Everyday Brilliance",
+        "body": "brAInify exists to empower people everywhere with practical, future-ready skills, turning complexity into opportunity and ambition into achievement. We believe that knowledge should have no barriers; the most complex topics can and must be broken down into simple, actionable, and easy-to-understand lessons that work for everyone. To that end, we are relentlessly committed to building the world’s most accessible and effective learning ecosystem — a place where anyone can master modern skills, create their own success, and thrive in the digital economy.\n\nBecause the digital world never stands still, neither do we. We provide the path, the tools, and the personalised AI guidance you need to master the skills of tomorrow, create new opportunities, and achieve your personal and wealth goals. No matter where you start, brAInify is your personal guide from confusion to competence."
+      },
+      "gap": {
+        "title": "The Skills Gap Stops Here",
+        "body": "The skills gap is growing wider every day. Artificial intelligence, digital currencies, and emerging technologies are evolving at a pace that leaves most people feeling overwhelmed and underprepared. The internet is saturated with millions of unguided courses, dense technical jargon, and self-directed platforms that assume you already know where to begin. The result? Talented, motivated people get left behind — not because they lack ambition, but because they lack guidance.\n\nbrAInify was built to solve exactly that. We say no to theory for theory’s sake. Every course, every tool, and every lesson on the platform is designed to deliver real-world results and tangible skills that can be applied immediately. AI is not just what we teach — it is how we teach. The same technology reshaping industries worldwide becomes your personal guide, making the journey from confusion to competence faster, smarter, and more human than anything that has come before."
+      },
+      "pathsIntro": {
+        "title": "The 7 Knowledge Paths",
+        "body": "The platform was born from a question that refused to go away: What if everyone had a personal genius in their pocket? The answer was brAInify. By harnessing artificial intelligence not merely as a subject to be taught, but as the teacher itself, brAInify creates an ecosystem where anyone, regardless of their background or starting point, can be guided step-by-step from foundational understanding to absolute mastery. It is a place where the fear of the unknown is replaced by the confidence of doing.\n\nbrAInify offers seven specialised Knowledge Paths, each designed around a high-demand skill domain of the modern digital economy. Brand Affiliates and Learners choose the path that aligns with their goals and are guided through a structured, progressive learning journey.\n\nEvery Knowledge Path follows the same proven three-level structure, ensuring that no learner is ever dropped into the deep end:"
+      },
+      "paths": [
+        {
+          "title": "The AI Path — Master AI Tools & Systems",
+          "body": "Understand how to use AI tools, build smart systems, automate work, and turn artificial intelligence into a real productivity advantage. The Foundation level demystifies AI for everyday use — from choosing the right tools to building your first AI setup. The Builder level introduces advanced prompt engineering, AI-assisted workflows, and automation basics. At the Master level, learners build custom AI assistants, automated business pipelines, and design their own AI income system."
+        },
+        {
+          "title": "The Creator Path — Content to Income",
+          "body": "Turn ideas into content, content into influence, and influence into income using modern tools, automation, and creator systems. The Foundation level helps aspiring creators find their niche, build a consistent routine, and establish a professional presence. The Builder level equips them with the professional tool stack — from AI video editing to bulk content creation. At the Master level, creators build automated content machines, convert followers into leads, and design scalable income systems."
+        },
+        {
+          "title": "The Financial Intelligence Path — Master the Markets",
+          "body": "Understand markets, master tools, build systems, and learn how to trade with discipline, confidence, and long-term consistency. The Foundation level removes the fear and confusion around financial markets — covering forex, crypto, trends, and market structure in plain language. The Builder level introduces professional trading tools, risk management, and trading psychology. At the Master level, learners develop intelligent trading plans, read charts like professionals, and build journaling systems for long-term consistency."
+        },
+        {
+          "title": "The Digital Economy Path — Navigate Digital Currency with Confidence",
+          "body": "Navigate the digital currency world safely, master the right tools, build smart strategies, and turn digital assets into structured systems. The Foundation level covers the essentials — blockchain, wallets, exchanges, and how people actually make money in crypto. The Builder level focuses on the tools professionals use to buy, track, analyse, and protect their assets. At the Master level, learners design their own crypto investment systems, automate buying and selling, and build passive income streams."
+        },
+        {
+          "title": "The Youth Path — Future-Ready Skills for Young Minds",
+          "body": "Prepare young minds with digital skills, creativity, AI projects, and future-ready tools that build confidence, logic, and early entrepreneurship. The Foundation level is a digital playground — young learners build, create, and play their way into understanding technology. The Builder level develops real skills in coding, design, and digital creation. At the Master level, young learners build their first AI projects, create digital products, and safely launch their first mini digital businesses."
+        },
+        {
+          "title": "The Digital Marketing Path — Attract, Convert, and Automate",
+          "body": "Understand how to attract attention, build funnels, automate sales, and create scalable online resources using modern marketing systems and tools. The Foundation level explains the psychology of online buying and the mechanics of digital marketing in plain terms. The Builder level equips learners with the exact tools marketers use — from funnel builders and AI copywriting tools to Meta Ads and analytics platforms. At the Master level, learners build automated funnel systems, traffic machines, and scalable marketing income engines."
+        },
+        {
+          "title": "The English Path - Master the English Language",
+          "body": "Speak English with confidence at work and beyond. Practice real conversations with Brainy, your AI tutor, and get instant feedback on every answer. The Foundational level explains the fundamentals of the English language to allow learners to speak with real confidence. The Builder level helps learners to practice live with AI. At the Master level, learners are able to better track their progress as they grow."
+        }
+      ],
+      "levels": [
+        {
+          "title": "Foundation",
+          "focus": "Start here. Build confidence.",
+          "gain": "Complex topics made accessible. Clarity replaces confusion."
+        },
+        {
+          "title": "Builder",
+          "focus": "Practical tools. Real skills.",
+          "gain": "Learn what professionals actually use. Apply skills immediately."
+        },
+        {
+          "title": "Master",
+          "focus": "Design systems. Generate income.",
+          "gain": "Turn skills into business. Build automated systems and real revenue."
+        }
+      ],
+      "levelLabels": [
+        "Level",
+        "Focus",
+        "What You Gain"
+      ],
+      "comparisonIntro": {
+        "title": "An Active Ecosystem, Not a Passive Library",
+        "body": "The difference between brAInify and every other online education platform comes down to one fundamental distinction: brAInify is an active ecosystem, not a passive library.\n\nTraditional platforms give you thousands of self-directed courses and leave you to navigate alone. They offer knowledge acquisition; brAInify offers skill mastery. They give you a map; brAInify gives you a guide."
+      },
+      "comparison": {
+        "beforeTitle": "Traditional Platform",
+        "before": [
+          "Thousands of unguided courses",
+          "Self-directed learning",
+          "Knowledge acquisition",
+          "You figure it out alone"
+        ],
+        "afterTitle": "brAInify",
+        "after": [
+          "Seven structured, goal-oriented Knowledge Paths",
+          "AI-guided progression from Foundation to Mastery",
+          "Real-world skill application and income generation",
+          "Your personal AI Mentor walks with you every step"
+        ]
+      },
+      "mentor": "At the heart of this difference is the Personalised AI Mentor — your personal guide inside the platform. The AI Mentor does not just answer questions. It actively guides members through their chosen path and level, recommends specific lessons based on where you are struggling, explains complex concepts in simple and accessible language, suggests practical tools and next actions, and helps members apply what they have learned to real-world projects and systems. Whether you are learning AI, creating content, trading markets, building wealth, or preparing your child for the future, the AI Mentor walks with you — ensuring that no one is ever left behind.",
+      "audienceIntro": {
+        "title": "Who is brAInify for?",
+        "body": "brAInify is built for everyone ready to grow. Because the AI Mentor personalises every journey, the platform adapts to your specific needs, pace, and starting point. There is no prerequisite knowledge, no assumed background, and no one-size-fits-all curriculum. brAInify meets you exactly where you are."
+      },
+      "audience": [
+        "The Aspiring Entrepreneur\nwho wants to build automated systems, launch digital businesses, and create new income streams will find a complete roadmap from idea to execution.",
+        "The Career Builder\nwho needs to upskill, master AI productivity tools, and gain a competitive edge in an increasingly automated workplace will find practical, immediately applicable skills.",
+        "The Curious Student\nwho wants to move beyond traditional academics and into the practical, future-ready digital skills that employers and the market are demanding will find structured, engaging learning paths.",
+        "The Lifelong Learner\nwho wants to understand new technologies — from artificial intelligence to digital currencies — without drowning in technical jargon will find clarity, confidence, and a guide who never loses patience."
+      ],
+      "join": {
+        "title": "Join the brAInify Movement",
+        "body": "The future belongs to those who are prepared for it. Every day that passes without the right skills is a day of opportunity lost. brAInify exists to make sure that never happens to you.\n\nThis is more than a platform. It is a movement — a growing community of learners, builders, and achievers who have chosen to step out of the passive library and into an active ecosystem designed entirely for their success. With structured video learning, interactive gamified paths, quick-start challenges, recognised certifications, and a personalised AI Mentor by your side, your journey from foundation to mastery starts the moment you decide to begin.\n\nMaster the skills of tomorrow. Create your own opportunities. Achieve your goals — no matter where you start."
+      }
+    }
+  }
+}
